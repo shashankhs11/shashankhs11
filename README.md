@@ -40,4 +40,4 @@ Always down to chat about anything. Please reach out!
 
 ---
 
-![Last Updated](https://img.shields.io/github/last-commit/shashankhs11/shashankhs11?style=flat-square)
+![Last Updated](https://img.shields.io/github/last-commit/shashankhs11/shashankhs11?label=Last%20Updated&style=flat-square)
