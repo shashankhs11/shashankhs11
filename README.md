@@ -1,9 +1,9 @@
 # 👋 Hey, I am Shashank
 
 - I am a Software Engineer with a Master’s in **Data Science**.
-- I really enjoy working with distributed systems.
-- I am very interested in building event-driven systems and microservices
-- With strong foundations in AI, I am keen on building enterprise software that integrates AI into distributed systems that solve real-world challenges.
+- I am very interested in building event-driven systems and microservices.
+- I am learning about distributed systems and want to dive deeper.
+- With strong foundations in AI, I am keen on building enterprise software that integrates AI into large scale software systems that solve real-world challenges.
   
 ---
 
@@ -19,7 +19,7 @@
 
 ### Languages I Use Regularly
 
-- **Java** for backend systems and microservices  
+- **Java** for backend 
 - **Python** for AI, data science, and ML pipelines  
 - **TypeScript** for building frontends
 
@@ -33,7 +33,7 @@
 
 ## Let's Connect
 
-Always down to chat about anything. Please reach out!
+Always down to chat about anything. Please feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hs-shashank)
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GeekinginJava)
