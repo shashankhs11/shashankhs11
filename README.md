@@ -1,19 +1,20 @@
 # 👋 Hey, I am Shashank
 
-- I am a Software Engineer with a Master’s in **Data Science**.
-- I am very interested in building event-driven systems and microservices.
-- I am learning about distributed systems and want to dive deeper.
+- I am a Software Engineer with a Master’s in **Data Science** from University of British Columbia, Vancouver
+- Distributed Systems fascinate me, truly.
 - With strong foundations in AI, I am keen on building enterprise software that integrates AI into large scale software systems that solve real-world challenges.
   
 ---
 
 ## What I am currently doing
 
+- Working on Open Source Issues in Apache Kafka:
+  - https://github.com/apache/kafka/pull/20149
+  - https://github.com/apache/kafka/pull/20254
+  - https://github.com/apache/kafka/pull/20285
+  - [KAFKA-13152](https://issues.apache.org/jira/browse/KAFKA-13152) and planning to complete [KIP-770](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=186878390)
 - Learning about **Apache Kafka** in depth 
-- Books that I am reading:
-  - *Designing Data-Intensive Applications*  
-  - *Kafka: The Definitive Guide*
-- Digging into cloud infrastructure
+
 
 ---
 
