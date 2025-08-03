@@ -12,7 +12,7 @@
   - https://github.com/apache/kafka/pull/20149
   - https://github.com/apache/kafka/pull/20254
   - https://github.com/apache/kafka/pull/20285
-  - [KAFKA-13152](https://issues.apache.org/jira/browse/KAFKA-13152) and planning to complete [KIP-770](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=186878390)
+  - https://github.com/apache/kafka/pull/20292 - Working to complete [KIP-770](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=186878390)
 - Learning about **Apache Kafka** in depth
 - Reading **`Kafka: The Definitive Guide`**
 
