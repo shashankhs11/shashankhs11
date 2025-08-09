@@ -13,6 +13,7 @@
 - [apache/kafka#20254](https://github.com/apache/kafka/pull/20254)
 - [apache/kafka#20285](https://github.com/apache/kafka/pull/20285)
 - [apache/kafka#20292](https://github.com/apache/kafka/pull/20292) – Working to complete [KIP-770](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=186878390)
+- https://github.com/apache/kafka/pull/20329
 
 ### ✅ Merged PRs
 - Coming Soon... 🙂
