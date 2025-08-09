@@ -1,20 +1,29 @@
 # 👋 Hey, I am Shashank
 
-- I am a Software Engineer with a Master’s in **Data Science** from University of British Columbia, Vancouver
-- Distributed Systems fascinate me, truly.
-- With strong foundations in AI, I am keen on building enterprise software that integrates AI into large scale software systems that solve real-world challenges.
+- I am a passionate Software Engineer with a Masters Degree from University of British Columbia
+- Distributed Systems truly fascinate me.
   
 ---
 
-## What I am currently doing
+## What I Am Currently Doing
 
-- Working on Open Source Issues in Apache Kafka:
-  - https://github.com/apache/kafka/pull/20149
-  - https://github.com/apache/kafka/pull/20254
-  - https://github.com/apache/kafka/pull/20285
-  - https://github.com/apache/kafka/pull/20292 - Working to complete [KIP-770](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=186878390)
-- Learning about **Apache Kafka** in depth
-- Reading **`Kafka: The Definitive Guide`**
+### Open Source
+### 🛠 Under Review / Open PRs
+- [apache/kafka#20149](https://github.com/apache/kafka/pull/20149)
+- [apache/kafka#20254](https://github.com/apache/kafka/pull/20254)
+- [apache/kafka#20285](https://github.com/apache/kafka/pull/20285)
+- [apache/kafka#20292](https://github.com/apache/kafka/pull/20292) – Working to complete [KIP-770](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=186878390)
+
+### ✅ Merged PRs
+- Coming Soon... 🙂
+
+### 🤝 Co-Authored PRs
+- [apache/kafka#20321](https://github.com/apache/kafka/pull/20321)
+
+---
+
+📚 **Currently Reading:** 
+- *Kafka: The Definitive Guide*
 
 
 ---
