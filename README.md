@@ -12,11 +12,12 @@
 - [apache/kafka#20149](https://github.com/apache/kafka/pull/20149)
 - [apache/kafka#20254](https://github.com/apache/kafka/pull/20254)
 - [apache/kafka#20285](https://github.com/apache/kafka/pull/20285)
-- [apache/kafka#20292](https://github.com/apache/kafka/pull/20292) – Working to complete [KIP-770](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=186878390)
-- https://github.com/apache/kafka/pull/20329
+- [apache/kafka#20292](https://github.com/apache/kafka/pull/20292) – Completes [KIP-770](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=186878390)
+- https://github.com/apache/kafka/pull/20378
 
 ### ✅ Merged PRs
-- Coming Soon... 🙂
+- https://github.com/apache/kafka/pull/20329
+- More on the way... 🙂
 
 ### 🤝 Co-Authored PRs
 - [apache/kafka#20321](https://github.com/apache/kafka/pull/20321)
