@@ -7,21 +7,11 @@
 
 ## What I Am Currently Doing
 
-### Open Source
-### 🛠 Under Review / Open PRs
-- [apache/kafka#20149](https://github.com/apache/kafka/pull/20149)
-- [apache/kafka#20254](https://github.com/apache/kafka/pull/20254)
-- [apache/kafka#20285](https://github.com/apache/kafka/pull/20285)
-- [apache/kafka#20292](https://github.com/apache/kafka/pull/20292) – Completes [KIP-770](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=186878390)
-- https://github.com/apache/kafka/pull/20378
+### Open Source - Apache Kafka
 
-### ✅ Merged PRs
-- https://github.com/apache/kafka/pull/20329
-- https://github.com/apache/kafka/pull/20408
-- https://github.com/apache/kafka/pull/20462
-- https://github.com/apache/kafka/pull/20463
-- https://github.com/apache/kafka-site/pull/716
-- More on the way... 🙂
+- https://github.com/apache/kafka/pull/20285 - Highly notable contribution where I worked with the co-creator of Kafka to fix a bug in `KafkaProducer`
+- [All my Contributions](https://github.com/apache/kafka/pulls?q=is%3Apr+author%3Ashashankhs11+)
+
 
 ### 🤝 PRs that I Reviewed
 - [apache/kafka#20321](https://github.com/apache/kafka/pull/20321)
