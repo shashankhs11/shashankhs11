@@ -10,7 +10,7 @@
 ### Open Source - Apache Kafka
 
 - https://github.com/apache/kafka/pull/20285 - Highly notable contribution where I worked with the co-creator of Kafka to fix a bug in `KafkaProducer`
-- [All my Contributions](https://github.com/apache/kafka/pulls?q=is%3Apr+author%3Ashashankhs11+)
+- [All my Contributions](https://github.com/apache/kafka/commits/trunk/?author=shashankhs11)
 
 
 ### 🤝 PRs that I Reviewed
